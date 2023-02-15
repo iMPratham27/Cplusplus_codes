@@ -1,0 +1,7 @@
+Inheritance :- the concept of reuseability in C++ is supported using inheritance.
+ 
+ -Single => a derived class from only one base class 
+ -Multiple => a derived class with more than one base classes
+ -Multilevel => deriving a class from derived class
+ -Hierachial => several derived class from a single base class
+ -Hybrid => is a combination of multiple & multilevel
